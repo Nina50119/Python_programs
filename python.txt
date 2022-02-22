@@ -1,0 +1,6 @@
+python
+Reverse a lsit in python
+
+exercise1list=[100,230,360,90]
+exercise1list.reverse()
+print(exercise1list)
