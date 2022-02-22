@@ -1,5 +1,5 @@
-python
-Reverse a lsit in python
+Python
+How to reverse a list in python
 
 exercise1list=[100,230,360,90]
 exercise1list.reverse()
